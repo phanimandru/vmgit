@@ -1,0 +1,4 @@
+hi 
+this is to test git on vm
+tq
+bye bye
